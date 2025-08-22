@@ -1,2 +1,2 @@
-# GB50176-climate-zones-v1.0
-GB50176建筑气候分区
+# GB50176-climate-zones-GB50176-2023
+GB50176-2023《民用建筑热工设计规范》
